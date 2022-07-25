@@ -1,0 +1,58 @@
+{
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "22:39:27",
+      "value": "25 JUL 2022"
+    },
+    "file": "subtree",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.3.0 (4fd0451)"
+    }
+  },
+  "people": [
+    {
+      "fams": [],
+      "id": "I5",
+      "names": [
+        {
+          "givn": "Margaret",
+          "value": "Maggie /Simpson/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F",
+          "sourceCitations": [],
+          "media": [],
+          "mediaRefs": [],
+          "noteRefs": [],
+          "notes": []
+        }
+      ],
+      "media": [
+        {
+          "_file": "Simpsons family.jpg",
+          "fileTag": "FILE",
+          "id": "O1",
+          "titl": "The Simpsons family"
+        },
+        {
+          "_file": "Maggie Simpson.jpg",
+          "_prim": "Y",
+          "fileTag": "FILE"
+        }
+      ]
+    }
+  ]
+}
